@@ -1,0 +1,3 @@
+#!/bin/sh
+streamripper http://files.kusmierz.be/rmf/rmfpprzeboje.mp3  -u FreeAmp/2.x  -d /media/htpc1ga/Media/Muzyka/Damian\&Lila/\!polskie\ przeboje/ -s -T --xs-padding=1000:1000 >> rippolskieprzeboje.log
+
