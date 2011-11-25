@@ -1,0 +1,8 @@
+#Poznan     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 530000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.28 MUX-3 Poznan/Srem
+T 618000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.39 MUX-2 Poznan/Srem
+T 650000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.43 MUX-2 from 31.12.2011 Gniezno/Brdowo
+T 658000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.44 MUX-2 Kalisz/Mikstat
+T 666000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.45 MUX-2 Konin/Zolwieniec
+

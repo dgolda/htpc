@@ -1,0 +1,7 @@
+#Lublin     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 474000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.21 MUX-2 Lublin/Piaski
+T 498000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.24 MUX-2 Deblin/Ryki
+T 506000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.25 MUX-3 Lublin/Raabego
+T 722000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.52 MUX-2 Zamosć/Tarnawatka
+

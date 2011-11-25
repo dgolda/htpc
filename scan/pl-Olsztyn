@@ -1,0 +1,9 @@
+#Olsztyn     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 498000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.24 MUX-2 Ilawa/Kisielice
+T 506000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.25 MUX-2 Elblag/Jagodnik
+T 570000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.33 MUX-2 Olsztyn/Pieczewo
+T 658000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.44 MUX-3 Olsztyn/Pieczewo
+T 666000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.45 MUX-3 Elblag/Jagodnik
+T 674000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.46 MUX-3 Ilawa/Kisielice
+

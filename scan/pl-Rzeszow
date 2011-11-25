@@ -1,0 +1,7 @@
+#Rzeszow     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 562000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.32 MUX-2 from 31.12.2011 Solina/g.Jawor
+T 586000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.35 MUX-3 Rzeszow/Baranowka
+T 642000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.42 MUX-1 from 14.12.2011 Rzeszow/Sucha Gora
+T 794000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.61 MUX-2 Rzeszow/Sucha Gora, Przemysl/Tatarska Gora, from 31.12.2011 Lezajsk/Giedlarowa
+

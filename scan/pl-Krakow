@@ -1,0 +1,9 @@
+#Krakow     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 490000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.23 MUX-2 Tarnow/g. sw Marcina
+T 690000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.48 MUX-3 Krakow/Choragwica
+T 794000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.61 MUX-2 Rabka/Lubon Wielki,
+            # Szczawnica/gora Przehyba, Zakopane/Gubalowka, 
+            # from 31.12.2011 Gorlice/Komin EC Glinik
+T 818000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.64 MUX-2 Krakow/Choragwica
+

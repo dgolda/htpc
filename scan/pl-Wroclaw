@@ -1,0 +1,6 @@
+#Wroclaw     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 570000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.33 MUX-3 Wroclaw/Zorawina
+T 698000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.49 MUX-3 Legnica/Piastowska
+T 770000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.58 MUX-2 Wroclaw/Sleza, Klodzko/Czarna Gora
+

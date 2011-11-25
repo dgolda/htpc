@@ -1,0 +1,14 @@
+#Warszawa     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 538000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.29 POLSATHD Warszawa/PKiN
+T 586000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.35 MUX-3 Plock/Rachocin
+T 602000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.37 MUX-2 Przysucha/Kozlowiec
+T 634000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.41 MUX-2 from 31.12.2011 Ostroleka/Lawy
+T 650000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.43 MUX-2 Siedlce/Losice
+T 690000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.48 MUX-2 Warszawa/PKiN, Warszawa/Raszyn
+T 730000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.53 TESTMUX Warszawa/PKiN
+T 746000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.55 MUX-3 Warszawa/PKiN, Warszawa/Raszyn
+T 754000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.56 MUX-3 Siedlce/Losice
+T 762000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.57 MUX-2 Plock/Rachocin
+T 770000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.58 MUX-1 Warszawa/Raszyn
+

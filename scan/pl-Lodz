@@ -1,0 +1,5 @@
+#Lodz     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 498000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.24 MUX-2 from 31.12.2011 Lodz/Komin EC-4
+T 682000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.47 MUX-3 Lodz
+

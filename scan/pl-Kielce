@@ -1,0 +1,5 @@
+#Kielce     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 594000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.36 MUX-2 Kielce/sw Krzyz
+T 682000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.47 MUX-3 Kielce/Targowa
+

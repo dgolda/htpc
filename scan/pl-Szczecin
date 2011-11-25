@@ -1,0 +1,9 @@
+#Szczecin     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 578000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.34 MUX-2 Szczecin/Kolowo, Swinoujscie/Chrobrego
+T 650000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.43 MUX-2 Pila/Rusinowo
+T 682000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.47 MUX-2 Koszalin/Gologora
+T 698000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.49 MUX-3 Szczecin/Kolowo
+T 706000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.50 MUX-2 Bialogard/Slawoborze
+T 714000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.51 MUX-3 Pila/Rusinowo
+

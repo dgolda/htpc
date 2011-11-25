@@ -1,0 +1,9 @@
+#Katowice     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 610000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.38 MUX-2 Wisla/G.Skrzyczne
+T 618000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.39 MUX-2 Czestochowa/Wreczyca
+T 634000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.41 MUX-3 Czestochowa/Bleszno
+T 698000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.49 MUX-2 Katowice/Kosztowy
+T 714000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.51 MUX-3 Katowice/Kosztowy
+T 802000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.62 MUX-1 from 14.12.2011 Wisla/G.Skrzyczne
+

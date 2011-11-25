@@ -1,0 +1,6 @@
+#Gdansk     
+# T freq bw fec_hi fec_lo mod transmission-mode guard-interval hierarchy
+T 586000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.35 MUX-2 Gdansk/Chwaszczyno
+T 666000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.45 MUX-2 Lebork/Skorowo Nowe
+T 690000000 8MHz 5/6 NONE QAM64 8k 1/4 NONE  # ch.48 MUX-3 Gdansk/Chwaszczyno
+
