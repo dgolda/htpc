@@ -53,22 +53,42 @@
       <enter>Select</enter>
       <backspace>Back</backspace>
       <key id='65446'>Back</key>
+      <browser_back>Back</browser_back>
       <m>ActivateWindow(PlayerControls)</m>
       <s>ActivateWindow(shutdownmenu)</s>
       <escape>PreviousMenu</escape>
       <i>Info</i>
+      <d mod="ctrl">Info</d>              <!-- MCE Details -->
+      <g mod="ctrl">OSD</g>               <!-- MCE Guide -->
       <menu>ContextMenu</menu>
       <c>ContextMenu</c>
+      <p mod="ctrl,shift">Play</p>        <!-- Play -->
       <space>Pause</space>
+      <play_pause>Pause</play_pause>
+      <p mod="ctrl">Pause</p>             <!-- Pause -->
       <x>Stop</x>
+      <stop>Stop</stop>
+      <s mod="ctrl,shift">Stop</s>        <!-- Stop -->
       <period>SkipNext</period>
+      <next_track>SkipNext</next_track>
+      <f mod="ctrl">SkipNext</f>          <!-- Skip -->
       <comma>SkipPrevious</comma>
+      <b mod="ctrl">SkipPrevious</b>      <!-- Replay -->
+      <prev_track>SkipPrevious</prev_track>
+      <f mod="ctrl,shift">FastForward</f> <!-- Fwd -->
+      <b mod="ctrl,shift">Rewind</b>      <!-- Rew -->
       <tab>FullScreen</tab>
       <printscreen>Screenshot</printscreen>
       <s mod="ctrl">Screenshot</s>
+      <volume_mute>Mute</volume_mute>
+      <f8>Mute</f8>                       <!-- MCE mute -->
       <minus>VolumeDown</minus>
+      <volume_down>VolumeDown</volume_down>
+      <f9>VolumeDown</f9>                 <!-- MCE Vol down -->
       <plus>VolumeUp</plus>
       <equals>VolumeUp</equals>
+      <volume_up>VolumeUp</volume_up>
+      <f10>VolumeUp</f10>                 <!-- MCE Vol up -->
       <zero>Number0</zero>
       <one>Number1</one>
       <two>Number2</two>
@@ -95,20 +115,12 @@
       <home>FirstPage</home>
       <end>LastPage</end>
       <!-- Multimedia keyboard keys -->
-      <browser_back>Back</browser_back>
       <browser_forward/>
       <browser_refresh/>
       <browser_stop/>
       <browser_search/>
       <browser_favorites>ActivateWindow(Favourites)</browser_favorites>
       <browser_home>XBMC.ActivateWindow(Home)</browser_home>
-      <volume_mute>Mute</volume_mute>
-      <volume_down>VolumeDown</volume_down>
-      <volume_up>VolumeUp</volume_up>
-      <next_track>SkipNext</next_track>
-      <prev_track>SkipPrevious</prev_track>
-      <stop>Stop</stop>
-      <play_pause>Pause</play_pause>
       <launch_mail></launch_mail>
       <launch_media_select>XBMC.ActivateWindow(MyMusic)</launch_media_select>
       <launch_app1_pc_icon>ActivateWindow(MyPrograms)</launch_app1_pc_icon>
@@ -118,18 +130,6 @@
       <!-- ****************************************************** -->
       <!-- MS Media Center keyboard shortcuts sent by MCE remotes -->
       <!-- See http://msdn.microsoft.com/en-us/library/bb189249.aspx -->
-      <p mod="ctrl,shift">Play</p>        <!-- Play -->
-      <s mod="ctrl,shift">Stop</s>        <!-- Stop -->
-      <p mod="ctrl">Pause</p>             <!-- Pause -->
-      <f mod="ctrl,shift">FastForward</f> <!-- Fwd -->
-      <b mod="ctrl,shift">Rewind</b>      <!-- Rew -->
-      <f mod="ctrl">SkipNext</f>          <!-- Skip -->
-      <b mod="ctrl">SkipPrevious</b>      <!-- Replay -->
-      <d mod="ctrl">Info</d>              <!-- MCE Details -->
-      <f10>VolumeUp</f10>                 <!-- MCE Vol up -->
-      <f9>VolumeDown</f9>                 <!-- MCE Vol down -->
-      <f8>Mute</f8>                       <!-- MCE mute -->
-      <g mod="ctrl">OSD</g>               <!-- MCE Guide -->
       <m mod="ctrl">ActivateWindow(music)</m>    <!-- MCE My music -->
       <i mod="ctrl">ActivateWindow(pictures)</i> <!-- MCE My pictures -->
       <e mod="ctrl">ActivateWindow(video)</e>    <!-- MCE videos -->
@@ -475,3 +475,4 @@
     </keyboard>
   </AddonSettings>
 </keymap>
+
